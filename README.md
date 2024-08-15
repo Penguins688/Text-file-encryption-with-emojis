@@ -5,7 +5,7 @@
 
 ## Encrypting
 
-**To compress a .txt file, run the encoder executable:**
+**To encrypt a .txt file, run the encoder executable:**
 
 ```console
 executables/encoder
@@ -14,7 +14,7 @@ executables/encoder
 **Then enter the file path:**
 
 ```console
-Enter the filename: <your filepath here>
+Enter the file path:  <your filepath here>
 ```
 
 ## Decoding
@@ -28,5 +28,5 @@ executables/decoder
 **Then enter the encoded .emoji file path:**
 
 ```console
-Enter the compressed filename: <your compressed filepath here>
+Enter the file path: <your .emoji filepath here>
 ```
